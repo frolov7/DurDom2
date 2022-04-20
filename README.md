@@ -1,7 +1,6 @@
 ### Hi there, I'm Yevgeniy Frolov <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="25px">
 
 [![Telegram Badge](https://img.shields.io/badge/-Telegram-0088cc?style=flat-square&logo=Telegram&logoColor=white)](https://t.me/frolovdak1ng)
-<!-- [![Instagram Badge](https://img.shields.io/badge/-Instagram-e4405f?style=flat-square&logo=Instagram&logoColor=white)](https://instagram.com/gkassym/) -->
 
 ### Glad to see you here!
 
