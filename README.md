@@ -2,8 +2,6 @@
 
 [![Telegram Badge](https://img.shields.io/badge/-Telegram-0088cc?style=flat-square&logo=Telegram&logoColor=white)](https://t.me/frolovdak1ng)
 
-### Glad to see you here!
-
 <h3 align="left">Github Stats </h3>
 
 📈 **My GitHub Stats:**
